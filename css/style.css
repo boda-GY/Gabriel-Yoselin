@@ -398,7 +398,7 @@
 
 /*** Contact Us Start ***/
 .RSVP-form {
-    background: linear-gradient(rgba(255, 255, 255, 0.08), rgba(0, 0, 0, 0.2));
+    background: linear-gradient(#fff,#fff);
     object-fit: cover;
 }
 /*** Contact Us End ***/
@@ -406,7 +406,7 @@
 
 /*** Footer Start ***/
 .footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/footer-bg.jpg) center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/me/foot.jpeg) center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
